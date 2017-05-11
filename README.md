@@ -1,27 +1,11 @@
-# README
+# First Rails Appication
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## CRUD operations based on rails.
 
-Things you may want to cover:
+# Deployment Steps
 
-* Ruby version
+* Setup ruby 2.4 and rails 5.0.1
 
-* System dependencies
+* Create database by running `bin/rails db:migrate`.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# rails_crud
-
-*
+* Fire up the rails server `bin/rails server` and go to port 3000.
